@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BishalSahoo-Pocketpills
-- 👀 I’m interested in programming (JS/TS, Python, PHP, Rust, Dart)
+- 👀 I’m interested in programming (JS/TS, Node, Python, PHP, Rust, Dart)
 - 🌱 I’m currently learning AI & ML
 - 💞️ I’m looking to collaborate on ...
 
